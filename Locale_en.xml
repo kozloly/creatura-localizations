@@ -2,7 +2,7 @@
     "_MENUMAIN_NEWVIVARIUM": "New Vivarium",
     "_MENUMAIN_NEWVIVARIUM_TOOLTIP_DESC": "Customize and create new tank, or start new scenario.\nSaves active tank state while playing.",
     "_MENUMAIN_LOADVIVARIUM": "Load Vivarium",
-    "_MENUMAIN_LOADVIVARIUM_TOOLTIP_DESC": "Load previosuly played tanks or scenarios.\nOpens tank selection screen if multiple vivariums are stored.\nSaves active tank state while playing.",
+    "_MENUMAIN_LOADVIVARIUM_TOOLTIP_DESC": "Load previously played tanks or scenarios.\nOpens tank selection screen if multiple vivariums are stored.\nSaves active tank state while playing.",
     "_MENUMAIN_COLLECTIONS": "Collections",
     "_MENUMAIN_COLLECTIONS_TOOLTIP_DESC": "Access rewards, global inventory and discovered fauna & flora.",
     "_MENUMAIN_OPTIONS": "Options",
@@ -22,8 +22,8 @@
     "_MENUMAIN_NEW_SETTINGS_FREEPLAY_TOOLTIP_TITLE": "Select freeplay (sandbox) gamemode",
     "_MENUMAIN_NEW_SETTINGS_SCENARIO": "S  C  E  N  A  R  I  O",
     "_MENUMAIN_NEW_SETTINGS_SCENARIO_TOOLTIP_TITLE": "Select scenarios & tutorials gamemode",
-    "_MENUMAIN_NEW_DESC_FREEPLAY": "\tFreeplay vivarium mode spawns customizable tank, with open-ended gameplay allowing unrestricted ecosystem creation, completing achievements, unlocking new tank parts and gaining credits for unique decorative pieces.",
-    "_MENUMAIN_NEW_DESC_SCENARIO": "\tScenarios start with pre-defined enviromnent and objectives to complete. Complete them to master Creatura and unlock unique scenario tank parts.",
+    "_MENUMAIN_NEW_DESC_FREEPLAY": "    Freeplay vivarium mode spawns customizable tank, with open-ended gameplay allowing unrestricted ecosystem creation, completing achievements, unlocking new tank parts and gaining credits for unique decorative pieces.",
+    "_MENUMAIN_NEW_DESC_SCENARIO": "    Scenarios start with a predefined environment and objectives to complete. Complete them to master Creatura and unlock unique scenario tank parts.",
     "_MENUMAIN_NEW_VIVARIUMNAME_TOOLTIP_TITLE": "Name the new tank",
     "_MENUMAIN_NEW_VIVARIUMNAME_TOOLTIP_DESC": "This name will be used when\nchoosing vivarium to load.",
     "_MENUMAIN_NEW_VIVARIUM": "Vivarium",
@@ -81,19 +81,19 @@
     "_MENUMAIN_NEW_WATER_TYPE_TRANSPARENT": "Transparent",
     "_MENUMAIN_NEW_WATER_TYPE_OPAQUE": "Opaque",
     "_MENUMAIN_NEW_WATER_COLOR": "Color:",
-    "_MENUMAIN_NEW_WATER_COLOR_TOOLTIP_TITLE": "Water Color",
-    "_MENUMAIN_NEW_WATER_COLOR_TOOLTIP_DESC": "Water color can be customized\nwhile playing in Vivarium menu.",
+    "_MENUMAIN_NEW_WATER_COLOR_TOOLTIP_TITLE": "Water Hue",
+    "_MENUMAIN_NEW_WATER_COLOR_TOOLTIP_DESC": "Water hue can be customized\nwhile playing in Vivarium menu.",
     "_MENUMAIN_NEW_FAUNA": "Fauna & Flora",
     "_MENUMAIN_NEW_FAUNA_SPONGES": "Sponges:",
     "_MENUMAIN_NEW_FAUNA_SPONGES_TOOLTIP_TITLE": "Sponges Spawning",
-    "_MENUMAIN_NEW_FAUNA_SPONGES_TOOLTIP_DESC": "Sponges spawning can be enabled/disabled while playing\nby applying growth catalysators/pesticides to water.",
+    "_MENUMAIN_NEW_FAUNA_SPONGES_TOOLTIP_DESC": "Sponges spawning can be enabled/disabled while playing\nby applying growth catalysts/pesticides to water.",
     "_MENUMAIN_NEW_FAUNA_COLOR": "Sponges:",
     "_MENUMAIN_NEW_FAUNA_COLOR_TOOLTIP_TITLE": "Sponges Color",
     "_MENUMAIN_NEW_FAUNA_COLOR_TOOLTIP_DESC": "Fauna in tank will inherit selected sponges color.\nSponges color can't be customized while playing",
     "_MENUMAIN_NEW_FLORA": "Flora",
     "_MENUMAIN_NEW_FLORA_ALGAE": "Algae:",
     "_MENUMAIN_NEW_FLORA_ALGAE_TOOLTIP_TITLE": "Algae Spawning",
-    "_MENUMAIN_NEW_FLORA_ALGAE_TOOLTIP_DESC": "Algae spawning can be enabled/disabled while playing\nby applying growth catalysators/herbicides to water.",
+    "_MENUMAIN_NEW_FLORA_ALGAE_TOOLTIP_DESC": "Algae spawning can be enabled/disabled while playing\nby applying growth catalysts/herbicides to water.",
     "_MENUMAIN_NEW_FLORA_CLOVERS": "Clovers:",
     "_MENUMAIN_NEW_FLORA_CLOVERS_TOOLTIP_TITLE": "Preset Clovers at Spawn",
     "_MENUMAIN_NEW_FLORA_CLOVERS_TOOLTIP_DESC": "Spawn preset clovers, instantly at spawn\ngaining access to plants with leafs.\nIf disabled, select random mutations\nor use genetic engineering to grow from simpler plants.",
@@ -110,10 +110,10 @@
     "_MENUMAIN_NEW_MODE_FREEVOLVE_TOOLTIP_DESC": "Enable SIM mode, to allow\nseeds inheriting random changes in genome.\nPlants might require constant attention\nto avoid vivarium ecosystem changes.",
     "_MENUMAIN_NEW_MODE_FREEVOLVE_TOOLTIP_DEV": "Alters core gameplay experience.\nRecommended for experienced users.",
     "_MENUMAIN_NEW_MODE_REALTIME_TOOLTIP_TITLE": "Realtime (Hardcore) Mode",
-    "_MENUMAIN_NEW_MODE_REALTIME_TOOLTIP_DESC": "Enable realtime mode, to disable\ntime lapsing, but simulate fauna & flora\noutstanding growth upon returning to vivarium.\nEvolving complex organisms and ecosystems\nmight take months or real world time.",
+    "_MENUMAIN_NEW_MODE_REALTIME_TOOLTIP_DESC": "Enable real time mode, to disable\ntime lapsing, but simulate fauna & flora\noutstanding growth upon returning to vivarium.\nEvolving complex organisms and ecosystems\nmight take months or real world time.",
     "_MENUMAIN_NEW_MODE_REALTIME_TOOLTIP_DEV": "Alters core gameplay experience.\nGlobal inventory access is disabled.\nRecommended for experienced users.",
     "_MENUMAIN_NEW_CREATE": "C R E A T E",
-    "_MENUMAIN_NEW_CREATE_TOOLTIP_DESC": "Generates new tank based on currently choosen scenario or settings.",
+    "_MENUMAIN_NEW_CREATE_TOOLTIP_DESC": "Generates new tank based on currently chosen scenario or settings.",
     "_MENUMAIN_LOAD_HOURSOLD": " hours old",
     "_MENUMAIN_LOAD_MODIFIEDAT": "Modified at ",
     "_MENUMAIN_LOAD_CREATEDAT": "Created at ",
@@ -293,8 +293,8 @@
     "_INGAME_VIVARIUM_BIOME_MOISTURE_TOOLTIP_DESC": "Concentration of water vapor in the air.\nTemperature changes the saturation limit,\nincreasing water volume rises concentration.\nHumidity affects lifespan of animals in the biome.",
     "_INGAME_VIVARIUM_BIOME_OXYGEN_TOOLTIP_TITLE": "Oxygen Saturation",
     "_INGAME_VIVARIUM_BIOME_OXYGEN_TOOLTIP_DESC": "Concentration of dissolved oxygen in medium.\nTemperature changes the saturation limit,\ngrowing more plants rises concentration. Oxygen\naffects size of organisms in the biome. Oxygen\ninduces accumulation of mutations. Depletes over time.",
-    "_INGAME_VIVARIUM_BIOME_PH_TOOLTIP_TITLE": "Water Aciditiy",
-    "_INGAME_VIVARIUM_BIOME_PH_TOOLTIP_DESC": "Concentration of hydrogen ions in water.\nOrganic decorations increase water aciditiy,\nusing mineral landscapes rises concentration.\nAciditiy affects lifespan of animals in the biome.",
+    "_INGAME_VIVARIUM_BIOME_PH_TOOLTIP_TITLE": "Water Acidity",
+    "_INGAME_VIVARIUM_BIOME_PH_TOOLTIP_DESC": "Concentration of hydrogen ions in water.\nOrganic decorations increase water acidity,\nusing mineral landscapes rises concentration.\nAciditiy affects lifespan of animals in the biome.",
     "_INGAME_VIVARIUM_BIOME_COUNT_DECO_TOOLTIP_TITLE": "Common/Rare Decorations",
     "_INGAME_VIVARIUM_BIOME_COUNT_DECO_TOOLTIP_DESC": "Number of decorations in the biome.",
     "_INGAME_VIVARIUM_BIOME_COUNT_ANIMALS_TOOLTIP_TITLE": "Common/Rare Animal Families",
@@ -324,7 +324,7 @@
     "_INGAME_STORE_CONSUMABLES_GROWTHHORMONE_NAME": "E'Teréal Fyre'Léo",
     "_INGAME_STORE_CONSUMABLES_GROWTHHORMONE_DESC": "<size=14><b>GROWTH HORMONE - AGING CATALYSATOR</b></size>\n\nSomatotropin and prolactin based universal growth hormone. The attached brochure mentions something about gruesome side-effects and using only in approved cases of growth hormone deficiency, but it also definitely removes wrinkles - by increasing muscle mass and metabolism rate.\n\nFor multiple (3) injections or single concentrated safespot application.",
     "_INGAME_STORE_CONSUMABLES_ANTIOXIDANT_NAME": "E'Teréal Evér'Lotion",
-    "_INGAME_STORE_CONSUMABLES_ANTIOXIDANT_DESC": "<size=14><b>ANTI-OXIDANT - AGING INHIBITOR</b></size>\n\nThis cosmetic coconut oil product has proven to be extremely powerfull industrial anti-oxidant. We've prepared raport detailing it's toxicity at this concentration, but then realized it's just some nicely smelling vitamins, and eating exclusively coconut oil for weeks might have neagitively affected our study.\n\nFor multiple (3) injections or single concentrated safespot application.",
+    "_INGAME_STORE_CONSUMABLES_ANTIOXIDANT_DESC": "<size=14><b>ANTI-OXIDANT - AGING INHIBITOR</b></size>\n\nThis cosmetic coconut oil product has proven to be extremely powerful industrial anti-oxidant. We've prepared raport detailing it's toxicity at this concentration, but then realized it's just some nicely smelling vitamins, and eating exclusively coconut oil for weeks might have negatively affected our study.\n\nFor multiple (3) injections or single concentrated safespot application.",
     "_INGAME_STORE_CONSUMABLES_PHUP_NAME": "YourBrandHere pH Adjust",
     "_INGAME_STORE_CONSUMABLES_PHUP_DESC": "<size=14><b>WATER PH ADJUSTER - ACIDITY DECREASER</b></size>\n\nIt's a non-toxic, 100% safe to use, sodium-carbonate solution, used to lower biome acidity. It's just repacked baking soda, however with the magic of capitalism, we will tell everyone your brand pH raising product extends lifespan, cures disease and causes miracles!",
     "_INGAME_STORE_CONSUMABLES_PHDOWN_NAME": "YourBrandHere pH-Down",
@@ -334,55 +334,55 @@
     "_INGAME_STORE_CONSUMABLES_PESTICIDE_NAME": "Squaredown Pesticide",
     "_INGAME_STORE_CONSUMABLES_PESTICIDE_DESC": "<size=14><b>REPRODUCTION BLOCKER - ANTI-FAUNA</b></size>\n\nWARNING: This product contains chemicals known to cause mutations or other reproductive harm.\n\nAward winning population control chemical agent. Apply to any animal family den, and be amazed with all the incredible reproductive failures!",
     "_INGAME_STORE_CONSUMABLES_RARIFICATOR_NAME": "AccomPride Stencil Set",
-    "_INGAME_STORE_CONSUMABLES_RARIFICATOR_DESC": "<size=14><b>DECORATION RARIFICATOR - DESIGN STENCIL</b></size>\n\nBottle of paint in spray, and a cardboard stencil to apply the paint. It's extemely overpriced, it's totally random, and it's definition of pointless, but can you really put the price on feeling of pride and accomplishment? No. So buy it, and buy it again, until the pride and accomplishment lasts. ",
+    "_INGAME_STORE_CONSUMABLES_RARIFICATOR_DESC": "<size=14><b>DECORATION RARIFICATOR - DESIGN STENCIL</b></size>\n\nBottle of paint in spray, and a cardboard stencil to apply the paint. It's extremely overpriced, it's totally random, and it's definition of pointless, but can you really put the price on feeling of pride and accomplishment? No. So buy it, and buy it again, until the pride and accomplishment lasts. ",
     "_INGAME_STORE_CONSUMABLES_PAINT1_NAME": "Rainbow-Wow! Paint Set",
-    "_INGAME_STORE_CONSUMABLES_PAINT1_DESC": "<size=14><b>DECORATION LAYERED COVER - PAINT SET</b></size>\n\nCan of water-proof paint. It comes in all possile colors, it's fully eco-friendly and bio-degradable, and it doesn't stain. What's not to love? The brush comes extra, free of charge.",
+    "_INGAME_STORE_CONSUMABLES_PAINT1_DESC": "<size=14><b>DECORATION LAYERED COVER - PAINT SET</b></size>\n\nCan of water-proof paint. It comes in all possible colors, it's fully eco-friendly and biodegradable, and it doesn't stain. What's not to love? The brush comes extra, free of charge.",
     "_INGAME_STORE_CONSUMABLES_PAINT2_NAME": "Rainbow-Wow! Dark",
     "_INGAME_STORE_CONSUMABLES_PAINT2_DESC": "<size=14><b>DECORATION LAYERED COVER - PAINT SET</b></size>\n\nA water-proof paint brush. It can be used with paint that comes free in the set, however, it's compatible only with it. Using it with different paint will probably result in flames and explosions.",
     "_INGAME_STORE_CONSUMABLES_KEY1_NAME": "Koksny Ko. Key",
-    "_INGAME_STORE_CONSUMABLES_KEY1_DESC": "<size=14><b>LOOT AVAILABILITY DELIMITER - CHEST KEY</b></size>\n\nWARNING: Using this product can cause urge for gambling and feeling of being scammed.\n\nSmall, golden key. The evil harbringer of modern gaming, the guardian of unholy grind and devourer of wallet sanity. Use it on chests to get useless, overpriced consumable, or a chance for extremely rare items. But mostly useless, overpriced consumables.",
+    "_INGAME_STORE_CONSUMABLES_KEY1_DESC": "<size=14><b>LOOT AVAILABILITY DELIMITER - CHEST KEY</b></size>\n\nWARNING: Using this product can cause urge for gambling and feeling of being scammed.\n\nSmall, golden key. The evil harbinger of modern gaming, the guardian of unholy grind and devourer of wallet sanity. Use it on chests to get useless, overpriced consumable, or a chance for extremely rare items. But mostly useless, overpriced consumables.",
     "_INGAME_STORE_CONSUMABLES_SEEDGRASS_NAME": "Irish Grass Seeds",
     "_INGAME_STORE_CONSUMABLES_SEEDGRASS_DESC": "<size=14><b>GRASS AND ALGAE SEEDS - AREA PLANTER</b></size>\n\nBag of seeds collected near the road. The actual product is the plastic box, made of indestructible polyethylene and giga-watts of energy, but since the whole \"mystery bag\" fad died out, we now fill it with seeds.\n\nFor multiple (5) plantings.",
     "_INGAME_STORE_ROCKYLANDSCAPES": "Rocky\nLandscapes",
-    "_INGAME_STORE_ROCKYLANDSCAPES_TOOLTIP_DESC": "Decorative rocks.\nUsed as safespots by animals.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_TOOLTIP_DESC": "Decorative rocks.\nUsed as safe spots by animals.",
     "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_SMALL_NAME": "Chalcedon Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_SMALL_DESC": "A silica based crystaline, smoothed and rounded by slowly dissolving in water. Rare patterns include Agates and Onyxes, however it does not seem to evolve into sentinent, snake like creatures.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_SMALL_DESC": "A silica based crystalline, smoothed and rounded by slowly dissolving in water. Rare patterns include Agates and Onyxes, however it does not seem to evolve into sentient, snake like creatures.",
     "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_MEDIUM_NAME": "Chalcedon Boulders",
-    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_MEDIUM_DESC": "Boulders finely grinded over millenia spent in one of the greatest solvents, H2O. It's so round, your creatures might evolve taste for 60's style and start using overpriced white smartphones.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_MEDIUM_DESC": "Boulders finely grinded over millenia spent in one of the greatest solvents, H2O. It's so round, your creatures might evolve taste for 60's style, or attempt to use is at as an overpriced smartphone.",
     "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_LARGE_NAME": "Chalcedon Den",
-    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_LARGE_DESC": "Smooth, egg-like safe space for all art deco loving inhabitants. Warning: Little cute furry funky DJ not included, grow one yourself to use as hip critter disco.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_CHALCEDON_LARGE_DESC": "Smooth, egg-like safe space for all art deco loving inhabitants. Warning: Little cute furry funky DJ not included, grow one yourself to use in hip critter disco.",
     "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_SMALL_NAME": "Kimberlite Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_SMALL_DESC": "A silica based crystaline, smoothed and rounded by slowly dissolving in water. Rare patterns include Agates and Onyxes, however it does not seem to evolve into sentinent, snake like creatures.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_SMALL_DESC": "The carrot-like, volatile shape of those stones is the result of underground volcanic explosions. Or someone here is trying to peddle a really nasty, fossilized piece of carrot.",
     "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_MEDIUM_NAME": "Kimberlite Boulders",
-    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_MEDIUM_DESC": "Boulders finely grinded over millenia spent in one of the greatest solvents, H2O. It's so round, your creatures might evolve taste for 60's style and start using overpriced white smartphones.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_MEDIUM_DESC": "It might look like an absolutely unassuming piece of rock for an untrained eye, but it's actually the primary source of diamonds. If only diamonds were actually precious, we would advise buying those in bulk.",
     "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_LARGE_NAME": "Kimberlite Den",
-    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_LARGE_DESC": "Smooth, egg-like safe space for all art deco loving inhabitants. Warning: Little cute furry funky DJ not included, grow one yourself to use as hip critter disco.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_KIMBERLITE_LARGE_DESC": "While definitely an igneous rock, kimberlite is rarely mentioned among other cooled magma stones, like basalt or granite. Some of stones are just not cool enough, you know?",
     "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_SMALL_NAME": "Slate Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_SMALL_DESC": "Multi-layered quartz rock formed in low heat and pressure, from clay or volcanic ash. Due to layers naturally forming flat sheets of stone, commonly used as gravestones or roof slates.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_SMALL_DESC": "Multi-layered quartz rock formed in low heat and pressure, from clay or volcanic ash. Due to layers naturally forming flat sheets of stone, commonly used as gravestones, or roof slates.",
     "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_MEDIUM_NAME": "Slate Slabs",
     "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_MEDIUM_DESC": "Spiky, sharp, but mostly flat badlands decoration and otherworldly landscape element. So edgy, it's basically a stand-up observation comedy gig without all the running around. Since slate slabs tend to not.",
     "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_LARGE_NAME": "Slate Cave",
-    "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_LARGE_DESC": "Hard edged and open space massive cavern, formed in glacier movements for universally everything, from fish school preying ground to super-villain lairs.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_SLATE_LARGE_DESC": "Hard edged and open space massive cavern, formed by glacial movements. Perfect for universally any application, from fish school, to super-villain lair.",
     "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_SMALL_NAME": "Pegmatite Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_SMALL_DESC": "Multi-layered quartz rock formed in low heat and pressure, from clay or volcanic ash. Due to layers naturally forming flat sheets of stone, commonly used as gravestones or roof slates.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_SMALL_DESC": "Usually smaller than other stones, but still the favourite of all enchanters, alchemists and grandmas around the world, as a source of largest crystals on earth.",
     "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_MEDIUM_NAME": "Pegmatite Slabs",
-    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_MEDIUM_DESC": "Spiky, sharp, but mostly flat badlands decoration and otherworldly landscape element. So edgy, it's basically a stand-up observation comedy gig without all the running around. Since slate slabs tend to not.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_MEDIUM_DESC": "\"Most pegmatites are intrusive rocks found in sheets of dikes and veins.\" That's the actual sentence from actual encyclopedia, and we refuse to make any further comments on it.",
     "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_LARGE_NAME": "Pegmatite Cave",
-    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_LARGE_DESC": "Hard edged and open space massive cavern, formed in glacier movements for universally everything, from fish school preying ground to super-villain lairs.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_PEGMATITE_LARGE_DESC": "If pegmatite rock composition is full of almandine, spessartine, spodumene, microcline or tourmaline, then imagine what lies ahead in actual pegmatite caves!",
     "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_SMALL_NAME": "Volcanic Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_SMALL_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_SMALL_DESC": "Identifies itself as rock of volcanic origin, but we couldn't confirm its identity as any known igneous rock. For all we know, it might be just sentient being from any planet named Volcan.",
     "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_MEDIUM_NAME": "Volcanic Formations",
     "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_MEDIUM_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
     "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_LARGE_NAME": "Volcanic Grotto",
-    "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_LARGE_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_VOLCANIC_LARGE_DESC": "We're not entirely sure how flowing lava can form a grotto, but we're also not experts on lava flow, gravitation, nor rocks. Or even on writing store descriptions for rocks, and i'm sure there is degree required for that.",
     "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_SMALL_NAME": "Granite Stone",
-    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_SMALL_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_SMALL_DESC": "Commonly known from floors of banks, and bathrooms of corrupted oligarchs, granite stones are also used in curling - a sport that is likely made-up joke created by Scotts and Candians to confuse the world.",
     "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_MEDIUM_NAME": "Granite Formations",
-    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_MEDIUM_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_MEDIUM_DESC": "Radioactive isn't a word many people associate with granite, but it definitely is, containing large amounts of potassium and even some uranium. Still probably much less dangerous than natures Manhattan project - a banana.",
     "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_LARGE_NAME": "Granite Grotto",
-    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_LARGE_DESC": "Solidified, cooled lava. Depending on cooling process, can form into bright rhyolite, coarse pumice or when cooled especially rapidly - solid, diamond pick-axe breaking obsidian.",
+    "_INGAME_STORE_ROCKYLANDSCAPES_GRANITE_LARGE_DESC": "It's tough. It's cool. It's hard, massive, and comes from underground. Surprisingly, it's not hipster description of some alt-metal band, it's just mineralogists having crush on granite.",
     "_INGAME_STORE_WOODENLANDSCAPES": "Wooden\nLandscapes",
-    "_INGAME_STORE_WOODENLANDSCAPES_TOOLTIP_DESC": "Decorative trees.\nUsed as safespots by animals.",
+    "_INGAME_STORE_WOODENLANDSCAPES_TOOLTIP_DESC": "Decorative trees.\nUsed as safe spots by animals.",
     "_INGAME_STORE_WOODENLANDSCAPES_DRIFTWOOD_NAME": "Maple Driftwood",
     "_INGAME_STORE_WOODENLANDSCAPES_DRIFTWOOD_DESC": "A piece of hardwood root. Exposed to years of salt and water corrosion, it's still a monument to the toughness of cellulose and lignin based structures. Used in industrial production of artificial pirate legs.",
     "_INGAME_STORE_WOODENLANDSCAPES_OAKLOG_NAME": "Oak Log",
@@ -392,7 +392,7 @@
     "_INGAME_STORE_WOODENLANDSCAPES_CEDARLOG_NAME": "Cedar Driftwood",
     "_INGAME_STORE_WOODENLANDSCAPES_CEDARLOG_DESC": "Bits of misshapen, but radical wood. It's not large enough to be used in barrell production, it's too damaged to be part of furniture, and the branches made it difficult to transport. School years had been rough for cedar driftwood.",
     "_INGAME_STORE_WOODENLANDSCAPES_ACACIALOG_NAME": "Acacia Log",
-    "_INGAME_STORE_WOODENLANDSCAPES_ACACIALOG_DESC": "Once a mighty tree, bravely facing elements and pests, now a dense package of dead carbon, awaiting it's turn in the marathon of decomposition. Or at least that is what it says in red letters on the black label, next to \"It's not just a phase, mom!\" scribbles.",
+    "_INGAME_STORE_WOODENLANDSCAPES_ACACIALOG_DESC": "Once a mighty tree, bravely facing elements and pests, now a dense package of dead carbon, awaiting its turn in the marathon of decomposition. Or at least that is what it says in red letters on the black label, next to \"It's not just a phase, mom!\" scribbles.",
     "_INGAME_STORE_WOODENLANDSCAPES_APPLELOG_NAME": "Apple Log",
     "_INGAME_STORE_WOODENLANDSCAPES_APPLELOG_DESC": "There was a joke here about a certain company making certain products, but we've got cease and desist letter, since apparently it was a secret product, not to be revealed until 2023. So now we're out of description, great. Thanks, Mr. Apple.",
     "_INGAME_STORE_WOODENLANDSCAPES_SAKURALOG_NAME": "Sakura Log",
@@ -406,7 +406,7 @@
     "_INGAME_STORE_WOODENLANDSCAPES_PETRIFIEDAPPLE_NAME": "Petrified Apple",
     "_INGAME_STORE_WOODENLANDSCAPES_PETRIFIEDAPPLE_DESC": "An petrified, mineralized piece of tree. Technically speaking, at this point it's a rock, however since it still identifies itself as wooden object when asked, we're going with it.",
     "_INGAME_STORE_DECORATIONS": "Statues.",
-    "_INGAME_STORE_DECORATIONS_TOOLTIP_DESC": "Decorative statues.\nUsed as safespots by animals.",
+    "_INGAME_STORE_DECORATIONS_TOOLTIP_DESC": "Decorative statues.\nUsed as safe spots by animals.",
     "_INGAME_STORE_DECORATIONS_MOAI_NAME": "The Moai",
     "_INGAME_STORE_DECORATIONS_MOAI_DESC": "It's a log",
     "_INGAME_STORE_DECORATIONS_NOTCAT_NAME": "The Notcat",
@@ -424,20 +424,20 @@
     "_INGAME_STORE_TOYS": "Toys",
     "_INGAME_STORE_TOYS_TOOLTIP_DESC": "Non-decorative items\nof unlimited use.",
     "_INGAME_STORE_TOYS_BALL_NAME": "The Ball",
-    "_INGAME_STORE_TOYS_BALL_DESC": "A round, bouncy object, made of leather or rubber. While our scientist still don't get it, almost all living organisms on this planet seem hypnothised by The Ball, and either chase it themselves, or have favourite ball chasing team and hate specimens emotionally invested in other ball chasing teams.",
+    "_INGAME_STORE_TOYS_BALL_DESC": "A round, bouncy object, made of leather or rubber. While our scientist still don't get it, almost all living organisms on this planet seem hypnotised by The Ball, and either chase it themselves, or have favourite ball chasing team and hate specimens emotionally invested in other ball chasing teams.",
     "_INGAME_STORE_BUY": "B U Y",
     "_INGAME_RESEARCH": "Research",
     "_INGAME_RESEARCH_TOOLTIP_DESC": "Manages genomes and discoveries.",
     "_INGAME_RESEARCH_ACTIVE_CAPTURE_IMG_TOOLTIP_TITLE": "Capture Specimen Image",
     "_INGAME_RESEARCH_ACTIVE_CAPTURE_IMG_TOOLTIP_DESC": "Captures a .PNG image file containing specimen in active research slot. The .PNG file is saved to My Pictures directory.",
     "_INGAME_RESEARCH_ACTIVE_CAPTURE_GIF_TOOLTIP_TITLE": "Capture Specimen Animation",
-    "_INGAME_RESEARCH_ACTIVE_CAPTURE_GIF_TOOLTIP_DESC": "Captures a .GIF animation file containing specimen in active research slot. The .GIF file is saved to My Pictures directory.",
+    "_INGAME_RESEARCH_ACTIVE_CAPTURE_GIF_TOOLTIP_DESC": "Captures a .GIF animation file containing specimens in active research slot. The .GIF file is saved to My Pictures directory.",
     "_INGAME_RESEARCH_ACTIVE_ROTATE_TOOLTIP_TITLE": "Rotate View",
     "_INGAME_RESEARCH_ACTIVE_ROTATE_TOOLTIP_DESC": "Rotates view of specimen in active research slot.",
     "_INGAME_RESEARCH_ACTIVE_RULER_TOOLTIP_TITLE": "Specimen Size and Weight",
     "_INGAME_RESEARCH_ACTIVE_RULER_TOOLTIP_DESC": "Approximate size and weight of specimen in active research slot. Plants weight might affect nodes selling value.",
     "_INGAME_RESEARCH_ACTIVE_TOOLTIP_TITLE": "Active Research Slot",
-    "_INGAME_RESEARCH_ACTIVE_TOOLTIP_DESC": "Put plant cutting or select animal specimen to use it in active research slot.\nSpecimens in active research slot can be discoverd in almanac, or used for genome sequencing and genetic engineer in edyGene.",
+    "_INGAME_RESEARCH_ACTIVE_TOOLTIP_DESC": "Put plant cutting or select animal specimen to use it in active research slot.\nSpecimens in active research slot can be discovered in almanac, or used for genome sequencing and genetic engineer in edyGene.",
     "_INGAME_RESEARCH_ACTIVE_NAME_TOOLTIP_TITLE": "Specimen Name",
     "_INGAME_RESEARCH_ACTIVE_NAME_TOOLTIP_DESC": "Name of specimen in active research slot.",
     "_INGAME_RESEARCH_ACTIVE_ORDER_TOOLTIP_TITLE": "Specimen Order",
@@ -487,7 +487,7 @@
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FAUNA_MIDDLE_TOOLTIP_TITLE": "Vivarium Ancestors",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FAUNA_MIDDLE_TOOLTIP_DESC": "Use arrow buttons to scroll through discovered ancestors\nlist of fauna species selected in almanac.",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FAUNA_SIDE_TOOLTIP_TITLE": "Vivarium Ancestor Side Branch",
-    "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FAUNA_SIDE_TOOLTIP_DESC": "Discocvered ancestor side branches of fauna species selected in almanac.\nUse arrow buttons to scroll through discovered ancestor\nside branches of fauna species selected in almanac.",
+    "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FAUNA_SIDE_TOOLTIP_DESC": "Discovered ancestor side branches of fauna species selected in almanac.\nUse arrow buttons to scroll through discovered ancestor\nside branches of fauna species selected in almanac.",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_PROTO_TOOLTIP_TITLE": "Vivarium Flora Proto Common Ancestor",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_PROTO_TOOLTIP_DESC": "Protozoic cyanobacteria common ancestor\nof all plants in vivarium.",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_ALGAE_TOOLTIP_TITLE": "Vivarium Flora Common Ancestor",
@@ -497,7 +497,7 @@
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_MIDDLE_TOOLTIP_TITLE": "Vivarium Ancestors",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_MIDDLE_TOOLTIP_DESC": "Use arrow buttons to scroll through discovered ancestors\nlist of flora species selected in almanac.",
     "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_SIDE_TOOLTIP_TITLE": "Vivarium Ancestor Side Branch",
-    "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_SIDE_TOOLTIP_DESC": "Discocvered ancestor side branches of flora species selected in almanac.\nUse arrow buttons to scroll through discovered ancestor\nside branches of flora species selected in almanac.",
+    "_INGAME_RESEARCH_ALMANAC_TREE_SLOT_FLORA_SIDE_TOOLTIP_DESC": "Discovered ancestor side branches of flora species selected in almanac.\nUse arrow buttons to scroll through discovered ancestor\nside branches of flora species selected in almanac.",
     "_INGAME_RESEARCH_ALMANAC_KINGDOM_PLANTS": "",
     "_INGAME_RESEARCH_ALMANAC_KINGDOM_ANIMALS": "",
     "_INGAME_RESEARCH_ALMANAC_ORDER_NOSELECTED": "NO ORDER SELECTED",
@@ -527,7 +527,7 @@
     "_INGAME_RESEARCH_ALMANAC_LIST_SLUGS": "SLUGS",
     "_INGAME_RESEARCH_ALMANAC_LIST_AMPHIBIANS": "AMPHIBIANS",
     "_INGAME_RESEARCH_ALMANAC_LIST_SILVERFISHES": "SILVERFISHES",
-    "_INGAME_RESEARCH_ALMANAC_LIST_SEASNAILS": "SEASNAILS",
+    "_INGAME_RESEARCH_ALMANAC_LIST_SEASNAILS": "SEA SNAILS",
     "_INGAME_RESEARCH_ALMANAC_LIST_SEASCOPRIONS": "SEASCOPRIONS",
     "_INGAME_RESEARCH_ALMANAC_LIST_REPTILES": "REPTILES",
     "_INGAME_RESEARCH_ALMANAC_LIST_INSECTS": "INSECTS",
@@ -569,7 +569,7 @@
     "_INGAME_RESEARCH_EDYGENE_SCROLL_ACTIVE_TOOLTIP_DESC": "Scroll to compare and find highlighted differences between stored genome.",
     "_INGAME_RESEARCH_EDYGENE_SCROLL_STORED_TOOLTIP_DESC": "Scroll to compare and find highlighted differences between active genome.",
     "_INGAME_RESEARCH_DNASLOT_EMPTY": "Read Stored Genome",
-    "_INGAME_RESEARCH_DNASLOT_EMPTY_TOOLTIP_DESC": "Loads and compares previously stored genome\nagainst sample from active researh slot.\nUse the arrow button above to store active\nresearch slot sample in this slot.",
+    "_INGAME_RESEARCH_DNASLOT_EMPTY_TOOLTIP_DESC": "Loads and compares previously stored genome\nagainst sample from active research slot.\nUse the arrow button above to store active\nresearch slot sample in this slot.",
     "_INGAME_RESEARCH_DNASLOT_STORE": "Store Active Genome",
     "_INGAME_RESEARCH_DNASLOT_STORE_TOOLTIP_DESC": "Stores genome sample from active research slot.\nUse the button below to load\npreviously stored genome from this slot.",
     "_INGAME_RESEARCH_EDYGENE_CODON_MARKER_TOOLTIP_TITLE": "Codon Marker",
@@ -579,11 +579,11 @@
     "_INGAME_RESEARCH_EDYGENE_CODON_STRING_STORED_TOOLTIP_TITLE": "Stored DNA String",
     "_INGAME_RESEARCH_EDYGENE_CODON_STRING_STORED_TOOLTIP_DESC": "Previously stored DNA nucleobase\namino-acid representation.",
     "_INGAME_RESEARCH_EDYGENE_CODON_GROUP_TOOLTIP_TITLE": "Codon Amino-Acid Group",
-    "_INGAME_RESEARCH_EDYGENE_CODON_GROUP_TOOLTIP_DESC": "Amino-acid group of currently\nrepresented codon DNA nucleobase pairs.\nChanging codon amino-acid group value is fatal.",
+    "_INGAME_RESEARCH_EDYGENE_CODON_GROUP_TOOLTIP_DESC": "Amino-acid group of currently\nrepresented codon DNA nucleobase pairs.\nChanging codon amino-acid group type is fatal.",
     "_INGAME_RESEARCH_EDYGENE_SEQUENCEINPROGRESS": "",
     "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT": "Procedure {0}, specimen seems {1}",
-    "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_SUCCESS": "Superseding has been applied succesfully.",
-    "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_FAIL_RANDOM": "Random codon was modified due to process inaccuraccy.",
+    "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_SUCCESS": "Superseding has been applied successfully.",
+    "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_FAIL_RANDOM": "Random codon was modified due to process inaccuracy.",
     "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_FAIL_SAME": "Applied DNA matches specimen acquired sample.",
     "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_FAIL_NOCHANGE": "No changes to specimen DNA were made.",
     "_INGAME_RESEARCH_EDYGENE_APPLY_RESULT_SUCCEED": "succeed",
@@ -636,7 +636,7 @@
     "_INGAME_CONTEXT_DECO_ROTATE_TOOLTIP_TITLE": "Rotate Decoration",
     "_INGAME_CONTEXT_DECO_ROTATE_TOOLTIP_DESC": "Moves the decoration along selected axis.\nHold shift to move it in other direction.",
     "_INGAME_CONTEXT_CLOSE_TOOLTIP_TITLE": "Close Context Menu",
-    "_PLANT_PROTOALGAE": "Primoridal Algae",
+    "_PLANT_PROTOALGAE": "Primordial Algae",
     "_PLANT_REED": "REED",
     "_PLANT_GRASS": "GRASS",
     "_PLANT_MONOCOT": "MONOCOT",
@@ -671,7 +671,7 @@
     "_PLANT_OBLIQUELEAFS": "oblique leafs",
     "_PLANT_FERNS": "ferns",
     "_PLANT_PINES": "pines",
-    "_PLANT_HARDWOOD": "hard wood",
+    "_PLANT_HARDWOOD": "hardwood",
     "_PLANT_SOFTWOOD": "soft stalk",
     "_PLANT_SHORTSTEM": " short stem.",
     "_PLANT_LONGSTEM": " long stem.",
@@ -723,7 +723,7 @@
     "_SCENARIO_TITLE_TUTORIAL_BASIC1": "Vivarium - Controls",
     "_SCENARIO_TITLE_TUTORIAL_BASIC2": "Plants, Nodes & Cuttings",
     "_SCENARIO_TITLE_TUTORIAL_BASIC3": "Vivarium - Customization",
-    "_SCENARIO_TITLE_TUTORIAL_BASIC4": "Inventory Managment",
+    "_SCENARIO_TITLE_TUTORIAL_BASIC4": "Inventory Management",
     "_SCENARIO_TITLE_TUTORIAL_BASIC5": "Store & Decorations",
     "_SCENARIO_TITLE_TUTORIAL_BASIC6": "Animal Families",
     "_SCENARIO_TITLE_TUTORIAL_BASIC7": "Mutations & Mutagens",
@@ -841,7 +841,7 @@
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@Great. Now, back to the point. Try taking a root node clipping from one of the monocots here.",
             "R/15/1/DE/1@Since it's a monocot, it has only one node, so it doesn't matter where you take the cutting - it's always a root node.",
-            "R/15/0/DE/0@[Right Mouse Button] on plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
+            "R/15/0/DE/0@[Right Mouse Button] on the plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
         ]
     },
     "_TUTORIAL_BASIC2_T5": {
@@ -911,7 +911,7 @@
     "_TUTORIAL_BASIC2_T13": {
         "CAT_StoredStepName": "Decrease cutting spreading range",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/0@Before planting, use our ultrasonic molecular modulators to adjust plants seeding range. See the circles on the ground?",
+            "R/15/1/DE/0@Before planting, use our ultrasonic molecular modulators to adjust plants' seeding range. See the circles on the ground?",
             "R/15/1/HA/0@Those show how far a plant can drop seeds. It's encoded in the plant genome, but with this technology, we can adjust it on the fly!",
             "R/15/0/DE/0@Hold [Shift] and [Mouse scroll down] to decrease held plant spreading range."
         ]
@@ -1005,7 +1005,7 @@
     "_TUTORIAL_BASIC3_T3": {
         "CAT_StoredStepName": "Change tank lid",
         "CAT_StoredDialogues": [
-            "R/15/2/HA/1@…And …We can put a hat on it! I mean, not hat, it's a lid, but it's almost like a silly, vivarium hat.",
+            "R/15/2/HA/1@…And …We can put a hat on it! I mean, not a hat, it's a lid, but it's almost like a silly, vivarium hat.",
             "R/15/2/HA/0@Just press the next tank lid button. It doesn’t do anything, just gives the tank some, you know… Style.",
             "R/15/0/DE/0@[Left Mouse Button] on the next tank lid button."
         ]
@@ -1037,7 +1037,7 @@
     "_TUTORIAL_BASIC3_T7": {
         "CAT_StoredStepName": "Change water shade",
         "CAT_StoredDialogues": [
-            "R/15/2/HA/0@And you can do the same with water! By changing water type, you can control how transparent it is.",
+            "R/15/2/HA/0@And you can do the same with water! By changing the water type, you can control how transparent it is.",
             "R/15/2/DE/0@Make it a little more clear. Press the next water type button.",
             "R/15/0/DE/0@[Left Mouse Button] on the next water shade button."
         ]
@@ -1176,14 +1176,14 @@
         "CAT_StoredStepName": "Put decoration in global inventory",
         "CAT_StoredDialogues": [
             "R/15/2/HA/1@Now put it in the quick global inventory slot, so we can grab this fantastic rock at any later point.",
-            "R/15/2/SU/0@…I might be getting a bit over-excited with it, but… Just, put into the global inventory slot.",
+            "R/15/2/SU/0@…I might be getting a bit over-excited with it, but… Just put it into the global inventory slot.",
             "R/15/0/DE/0@[Left Mouse Button] on an empty quick global inventory slot, to put held objects in the global inventory."
         ]
     },
     "_TUTORIAL_BASIC4_T15": {
         "CAT_StoredStepName": "",
         "CAT_StoredDialogues": [
-            "N/15/2/HA/2@Yeeeah, fantastic golden rock. Loving it! I will buy it off from you later. Maybe. Maybe we can trade for something? Other rock? No?"
+            "N/15/2/HA/2@Yeeeah, fantastic golden rock. I Love it! I will buy it from you later. Maybe. Maybe we can trade for something? Other rocks? No?"
         ]
     },
     "_TUTORIAL_BASIC5_T0": {
@@ -1472,7 +1472,7 @@
     "_TUTORIAL_BASIC6_T8": {
         "CAT_StoredStepName": "Settle decoration",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/1@When unoccupied decorations are available, \"homeless\" animals move in and use them as safespot.",
+            "R/15/1/DE/1@When unoccupied decorations are available, \"homeless\" animals move in and use them as a safespot.",
             "R/15/1/FR/0@Let our worms find the stupid rock and adapt it as habitat. Drop the rock now, so a family can start living around… Just toss it somewhere.",
             "R/15/0/DE/0@[Right Mouse Button] over ground, in place chosen to drop held decoration."
         ]
@@ -1480,14 +1480,14 @@
     "_TUTORIAL_BASIC6_T9": {
         "CAT_StoredStepName": "Open store menu",
         "CAT_StoredDialogues": [
-            "R/15/1/CU/0@The worms are already huddling around, thinking it's the best place in the tank. Naive creatures. Lets go to the store again for some supplies.",
+            "R/15/1/CU/0@The worms are already huddling around, thinking it's the best place in the tank. Naive creatures. Let's go to the store again for some supplies.",
             "R/15/0/DE/0@[Left Mouse Button] on the store menu button, or press [B]."
         ]
     },
     "_TUTORIAL_BASIC6_T10": {
         "CAT_StoredStepName": "Open consumables tab",
         "CAT_StoredDialogues": [
-            "R/15/1/CU/1@Select consumables tab, so we can find appropriate chemicals for our experiment. The really toxic ones.",
+            "R/15/1/CU/1@Select the consumables tab, so we can find appropriate chemicals for our experiment. The really toxic ones.",
             "R/15/0/DE/0@[Left Mouse Button] on the consumables tab button."
         ]
     },
@@ -1547,7 +1547,7 @@
     "_TUTORIAL_BASIC7_T1": {
         "CAT_StoredStepName": "Wait until plant mutates at leaf node",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/1@Now as I said, all we need to do is just patiently wait for random mutation to appear…",
+            "R/15/1/DE/1@Now as I said, all we need to do is just patiently wait for random mutations to appear…",
             "R/15/0/DE/0@Wait…"
         ]
     },
@@ -1555,7 +1555,7 @@
         "CAT_StoredStepName": "Take cutting of mutated leaf node",
         "CAT_StoredDialogues": [
             "R/15/2/HA/2@…Hello. Hi! I'm back!",
-            "R/15/1/FR/1@We were looking for random mutation, not random mutant, go away, don't interrupt… See the leaf with mutated hue? Select it and take a cutting.",
+            "R/15/1/FR/1@We were looking for random mutation, not random mutant, go away, don't interrupt… See the leaf with a mutated hue? Select it and take a cutting.",
             "R/15/0/DE/0@[Right Mouse Button] on differently shaded plants leaf nodes and select Cut, or [Left Mouse Button] while holding [Ctrl]."
         ]
     },
@@ -1654,7 +1654,7 @@
     "_TUTORIAL_BASIC7_T15": {
         "CAT_StoredStepName": "Put cutting in global inventory",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/0@And put it into one of global slots, so you will be able to access it later in your own vivarium.",
+            "R/15/1/DE/0@And put it into one of the global slots, so you will be able to access it later in your own vivarium.",
             "R/15/0/DE/0@[Left Mouse Button] on an empty quick global inventory slot, to put held objects in the global inventory."
         ]
     },
@@ -1801,7 +1801,7 @@
     "_TUTORIAL_ADVANCED1_T1": {
         "CAT_StoredStepName": "Set temperature to dewing point",
         "CAT_StoredDialogues": [
-            "R/15/2/SA/0@Every tank with enough water has a dewing point. If water level and air temperature is just right, condensation starts forming, resulting in fog.",
+            "R/15/2/SA/0@Every tank with enough water has a dewing point. If the water level and air temperature is just right, condensation starts forming, resulting in fog.",
             "R/15/1/FR/0@This was unexpectedly scientifically correct. Air temperature is average for all biomes, so just set our water temperature near the \"fog\" icon.",
             "R/15/0/DE/0@[Left Mouse Button] and drag the temperature slider to the fog symbol."
         ]
@@ -1894,7 +1894,7 @@
         "CAT_StoredStepName": "Move ground peak below water surface",
         "CAT_StoredDialogues": [
             "R/15/2/FR/0@Ground can be shaped by dragging it. Hold and drag the peak below the water surface, so the biomes merge and acid concentration diffuses.",
-            "R/15/0/DE/0@Hold both [Shift] and [Left Mouse Button] on ground to drag it."
+            "R/15/0/DE/0@Hold both [Shift] and [Left Mouse Button] on the ground to drag it."
         ]
     },
     "_TUTORIAL_ADVANCED1_T14": {
@@ -1914,7 +1914,7 @@
     "_TUTORIAL_ADVANCED2_T1": {
         "CAT_StoredStepName": "Grab cutting from inventory",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/0@I'm studying some peculiar kind of nightshades. Nevermind the details, but we need to sequence the genome. Grab the cutting so we can begin.",
+            "R/15/1/DE/0@I'm studying some peculiar kinds of nightshades. Nevermind the details, but we need to sequence the genome. Grab the cutting so we can begin.",
             "R/15/0/DE/0@[Left Mouse Button] on plant cutting in a quick inventory slot."
         ]
     },
@@ -1947,7 +1947,7 @@
         "CAT_StoredDialogues": [
             "R/15/2/CU/0@That's why I'm the expert on edyGene. Because i have the phD in talpidae ontogenetics, and your is in counting leafs on stupid shamrocks.",
             "R/15/2/FR/2@…See, i can be nasty too! …Before professor Snowflake breaks something here, store the active genome in one of the folders below it.",
-            "R/15/0/DE/0@[Left Mouse Button] store triangle on one of the genome slot buttons."
+            "R/15/0/DE/0@[Left Mouse Button] storing triangle on one of the genome slot buttons."
         ]
     },
     "_TUTORIAL_ADVANCED2_T6": {
@@ -2023,7 +2023,7 @@
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@In DNA, changes are applied to codons, as each codon transcodes for different traits. To keep track of codons' function, use genome markers.",
             "R/15/1/DE/1@Markers are like locations on a map, used to quickly navigate genomes. It’s genome mapping. Open the marker prompt on the mutated codon.",
-            "R/15/0/DE/0@[Left Mouse Button] on the marker button under codon with highlighted difference."
+            "R/15/0/DE/0@[Left Mouse Button] on the marker button under the codon with highlighted difference."
         ]
     },
     "_TUTORIAL_ADVANCED2_T16": {
@@ -2068,7 +2068,7 @@
         "CAT_StoredStepName": "",
         "CAT_StoredDialogues": [
             "R/15/2/FR/0@…And I'm the weird one because of mole fetuses, like this is not totally messed up. Whatever.",
-            "N/15/1/HA/0@It's enough knowledge for now, that's for sure. Lets get some practice in handling dangerous chemicals, since we’ve not done it before…"
+            "N/15/1/HA/0@It's enough knowledge for now, that's for sure. Let's get some practice in handling dangerous chemicals, since we’ve not done it before…"
         ]
     },
     "_TUTORIAL_ADVANCED3_T0": {
@@ -2138,7 +2138,7 @@
         "CAT_StoredStepName": "Select herbicide item",
         "CAT_StoredDialogues": [
             "R/15/2/DE/1@Herbicides prevent algae from growing on decorations, but also stop flora from growing anywhere else. At least if it's not herbicide resistant.",
-            "R/15/1/FR/0@…And fortunately some of the plants in this tank should be still resistant to it. Select the herbicide so we can prove it.",
+            "R/15/1/FR/0@…And fortunately some of the plants in this tank should still be resistant to it. Select the herbicide so we can prove it.",
             "R/15/0/DE/0@[Left Mouse Button] on the highlighted store item button."
         ]
     },
@@ -2170,13 +2170,13 @@
         "CAT_StoredDialogues": [
             "R/15/1/DE/1@The only plants left now are resistant to the pesticide. We should use them to try pinpointing genes responsible for this trait.",
             "R/15/1/DE/0@Take a cutting from one of the plants still alive.",
-            "R/15/0/DE/0@[Right Mouse Button] on plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
+            "R/15/0/DE/0@[Right Mouse Button] on the plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
         ]
     },
     "_TUTORIAL_ADVANCED3_T13": {
         "CAT_StoredStepName": "Open research menu",
         "CAT_StoredDialogues": [
-            "R/15/2/DE/0@For someone who is supposedly plant professional, you don't seem really to give a damn about those particular plants Paul…",
+            "R/15/2/DE/0@For someone who is supposedly plant professional, you don't seem to really give a damn about those particular plants Paul…",
             "R/15/1/DE/1@…Those are some monocots and algae, who cares? Open the research menu to access edyGene and sequence this specimen genome.",
             "R/15/0/DE/0@[Left Mouse Button] on the research menu button, or press [B]."
         ]
@@ -2225,14 +2225,14 @@
         "CAT_StoredStepName": "Open marker prompt",
         "CAT_StoredDialogues": [
             "R/15/1/SA/0@There is one! Open the marker prompt under it to assign one.",
-            "R/15/0/DE/0@[Left Mouse Button] on the marker button under codon with highlighted difference."
+            "R/15/0/DE/0@[Left Mouse Button] on the marker button under the codon with highlighted difference."
         ]
     },
     "_TUTORIAL_ADVANCED3_T20": {
         "CAT_StoredStepName": "Add marker",
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@Remember that while it might be responsible for expected characteristics, it also might be a miss. Name it accordingly.",
-            "R/15/1/DE/1@It's not a big deal, since marker names can be always changed later, so now just add it.",
+            "R/15/1/DE/1@It's not a big deal, since marker names can always be changed later, so now just add it.",
             "R/15/0/DE/0@Name the marker, and [Left Mouse Button] on the marker accept button."
         ]
     },
@@ -2345,7 +2345,7 @@
     "_TUTORIAL_ADVANCED4_T13": {
         "CAT_StoredStepName": "Open store menu",
         "CAT_StoredDialogues": [
-            "R/15/1/DE/0@Over time, fishes will hunt crustaceans, causing the predatory traits to emerge. This will result in first amphibians, but it takes a lot of time.",
+            "R/15/1/DE/0@Over time, fishes will hunt crustaceans, causing the predatory traits to emerge. This will result in the first amphibians, but it takes a lot of time.",
             "R/15/2/CU/0@Not this time Paul! While it's true, fishes take a long time to mature into reproducing, we have access to growth hormones! Open the store!",
             "R/15/0/DE/0@[Left Mouse Button] on the store menu button, or press [B]."
         ]
@@ -2375,7 +2375,7 @@
     "_TUTORIAL_ADVANCED4_T17": {
         "CAT_StoredStepName": "Wait until new species emerges",
         "CAT_StoredDialogues": [
-            "R/15/2/HA/0@That's the one! Great, now we still need to wait, but with growth hormone effect, fish lifespan and time to maturity will dramatically decrease.",
+            "R/15/2/HA/0@That's the one! Great, now we still need to wait, but with the growth hormone effect, fish lifespan and time to maturity will dramatically decrease.",
             "R/15/2/HA/1@…It still can take a long time. Just go for coffee, or something. I'll be here, watching. Evolution is always eventually bound to happen. Just wait.",
             "R/15/0/DE/0@Wait…"
         ]
@@ -2391,7 +2391,7 @@
         "CAT_StoredStepName": "Select rare animal to create new family",
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@Sometimes, we stumble upon rare specimens or objects. You have already seen rarified decorations, now let's look for some rarities in nature.",
-            "R/15/1/DE/1@One of the animals in the vivarium has a rare pattern. It happens when the genotype is just right. Grab this specimen's thumbnail to create family.",
+            "R/15/1/DE/1@One of the animals in the vivarium has a rare pattern. It happens when the genotype is just right. Grab this specimen's thumbnail to create a family.",
             "R/15/0/DE/0@[Left Mouse Button] on the rare animal thumbnail on the family list, and drag the thumbnail onto the new family button."
         ]
     },
@@ -2543,7 +2543,7 @@
         "CAT_StoredDialogues": [
             "R/15/2/FR/0@Paul, I really feel like we are both forgetting, what is our most important priority as a representative of a highly regarded research institute.",
             "R/15/1/HA/0@Exactly. I’m trying to focus on this DNA course, you are interrupting. So? …Please store this specimen's genome in one of our genome slots.",
-            "R/15/0/DE/0@[Left Mouse Button] store triangle on one of the genome slot buttons."
+            "R/15/0/DE/0@[Left Mouse Button] storing triangle on one of the genome slot buttons."
         ]
     },
     "_TUTORIAL_EXPERT1_T6": {
@@ -2574,7 +2574,7 @@
         "CAT_StoredStepName": "Apply X-Ray superseding to cutting",
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@X-Ray superseding isn't completely random, but it's too unreliable for modern use. It was however extensively used in the past.",
-            "R/15/1/DE/1@Many fruits and wheats consumed today are effects of radiating, sometimes the mutations just work out. Blast it again, maybe we'll luck out.",
+            "R/15/1/DE/1@Many fruits and wheats consumed today are effects of radiation, sometimes the mutations just work out. Blast it again, maybe we'll luck out.",
             "R/15/0/DE/0@[Left Mouse Button] on X-Ray superseding button."
         ]
     },
@@ -2582,7 +2582,7 @@
         "CAT_StoredStepName": "Select stored genome",
         "CAT_StoredDialogues": [
             "R/15/1/DE/0@Specimen looks healthy, no sign of any reproductive failures… But the genome has changed enough to encode for different soft tissue hues.",
-            "R/15/1/DE/1@Without wasted time, we've created new species. Compare its genome to the stored one, and try to find the gene encoding this color change.",
+            "R/15/1/DE/1@Without wasting time, we've created new species. Compare its genome to the stored one, and try to find the gene encoding this color change.",
             "R/15/0/DE/0@[Left Mouse Button] on the stored genome slot button."
         ]
     },
@@ -2708,7 +2708,7 @@
         "CAT_StoredDialogues": [
             "R/15/1/SU/0@Wait, before you apply the genome change, add a marker in this point, so in case of failure we can get back to it.",
             "R/15/2/DE/1@Good thinking. Do it. Open the market prompt.",
-            "R/15/0/DE/0@[Left Mouse Button] on the marker button under codon with highlighted difference."
+            "R/15/0/DE/0@[Left Mouse Button] on the marker button under the codon with highlighted difference."
         ]
     },
     "_TUTORIAL_EXPERT2_T7": {
@@ -2823,8 +2823,8 @@
         "CAT_StoredStepName": "Take cutting of resistant plant",
         "CAT_StoredDialogues": [
             "R/15/1/SU/1@And…? Does it work? It works… Right? Yes… Yes it works! I can't believe it! Eli! You've isolated the gene responsible for herbicide resistance!",
-            "R/15/2/HA/2@I did? I did it! Yeeeah! But i wouldn't do it without your help! As a token of goodwill, take a cutting of this plant, for use as in your own research!",
-            "R/15/0/DE/0@[Right Mouse Button] on plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
+            "R/15/2/HA/2@I did? I did it! Yeeeah! But I wouldn't do it without your help! As a token of goodwill, take cutting of this plant, for use in your own research!",
+            "R/15/0/DE/0@[Right Mouse Button] on the plant and select Cut, or [Left Mouse Button] while holding [Ctrl]."
         ]
     },
     "_TUTORIAL_EXPERT2_T22": {
